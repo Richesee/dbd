@@ -75,7 +75,7 @@ def menu():
 	elif pil =="4":
 		time.sleep(2.7)
 		print "Waiting Bang Lagi Otw Masuk"
-		os.system("xdg-open https://3333333333333")
+		os.system("xdg-open https://chat.whatsapp.com/KwbytzCfSeXID5BGoK2hgW")
 
 
 #date5
